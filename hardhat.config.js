@@ -44,8 +44,8 @@ module.exports = {
 			accounts,
 		},
 		plstestnet: {
-			url: "https://rpc.v2.testnet.pulsechain.com",
-			chainId: 940,
+			url: "https://rpc.v2b.testnet.pulsechain.com",
+			chainId: 941,
 			accounts:
 				process.env.PRIVATE_KEY !== undefined
 					? [process.env.PRIVATE_KEY]
