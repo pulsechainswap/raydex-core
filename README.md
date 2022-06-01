@@ -8,6 +8,9 @@ Core smart contracts of raydex protocol. Built to be deployed on PulseChain Netw
 - Multicall2: 0xF97E119de3fb18522D4c7909A8Db44365F482727
 - RayFactory: 0xbCE2a0193F4B445e2068Ea675aF2edECF6Bd69D1
 - RayRouter02: 0x259c9904Def4f50f9d48e06321a6614c2F03E106
+- RaydexStaking: 0x13b731F5580AB19715DaCA5E2104cAcB769e1025
+- LpController: 0x962696A0710e3D13Ee0F85b5ea78A9EAE52Ad72c
+- RayDexFarm: 0xcd1ce186D7a0a875e0BdC5265D5A77e98fc2B4EE
 
 ## PulseChain Mainet Contract
 
